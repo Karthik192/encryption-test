@@ -12,4 +12,6 @@ to decrypt the message.
 Level - 3:
 Using environmental variables
 If uploading to remote - gitignore .env file
+If pushed to heroku - you need to access configure variables
+
 
