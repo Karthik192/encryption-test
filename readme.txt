@@ -25,3 +25,7 @@ Perfect security with SaltingRounds
 
 Level - 5:
 Cookies and sessions
+Save data temp in browser and authenticate
+
+Level - 6:
+Third party OAuth - Open Authorization
